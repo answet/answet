@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200"/>
+    <h1 align="center">Hi 👋, I'm Answet</h1>
+</div>
 
 <!--
 **answet/answet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
