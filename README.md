@@ -3,6 +3,8 @@
 ---
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324
+
 <!--
 **answet/answet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
