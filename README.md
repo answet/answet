@@ -1,8 +1,6 @@
 <div id="header" align="center">
-    <img src="https://i.pinimg.com/564x/bf/01/0b/bf010b26e40254d2470581ff6db08c90.jpg" width="200"/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Answet+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Answet+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **answet/answet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
