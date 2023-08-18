@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&width=600&height=70&lines=Hi%2C+I'm+Answet+%F0%9F%91%8B;Se+viene+BOOOOOCAA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&width=1000&height=70&lines=Hi%2C+I'm+Answet+%F0%9F%91%8B;Se+viene+BOOOOOCAA" alt="Typing SVG" /></a>
 
 ---
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
