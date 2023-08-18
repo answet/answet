@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Answet+%F0%9F%91%8B;Se+viene+BOOOOOCAA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&width=600&height=70&lines=Hi%2C+I'm+Answet+%F0%9F%91%8B;Se+viene+BOOOOOCAA" alt="Typing SVG" /></a>
 
 <!--
 **answet/answet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
