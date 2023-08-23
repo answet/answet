@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&width=1000&height=70&lines=Hi%2C+I'm+Answet+%F0%9F%91%8B;Se+viene+BOOOOOCAA" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=If+a+problem+has+a+solution;then+it+is+not+a+problem.)](https://git.io/typing-svg)
 ---
 
 <!--
