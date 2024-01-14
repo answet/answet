@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=500&multiline=true&repeat=false&random=false&width=800&height=56&lines=Si+un+problema+tiene+solucion+entonces+no+es+un+problema)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&repeat=false&random=false&width=800&height=56&lines=Si+un+problema+tiene+solucion+entonces+no+es+un+problema)](https://git.io/typing-svg)
 ---
 
 <!--
